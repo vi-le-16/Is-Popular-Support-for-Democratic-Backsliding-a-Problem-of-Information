@@ -1,2 +1,10 @@
 # Is-Popular-Support-for-Democratic-Backsliding-a-Problem-of-Information
-This project seeks to understand how (and if) information breakthroughs affect the political beliefs and system confidence of citizens in the midst of global democratic decline.
+This project seeks to understand how (and if) information breakthroughs affect the political beliefs and system confidence of citizens in the midst of global democratic decline. We address this question using a large-scale, nationally representive, in-person information experiment conducted in HUngary in 2025 (n = 2000). We experimentally vary exposure to two dosages of each information treatment and examine their effects on confidence in the governing regime and interest in opposition parties, conditioned on respondents' degree of embeddedness in government-aligned media ecosystems. Our findings offer little support for the expectation that informational corrections undermine regime support.
+
+This article was a collaboration between Professors Laura Jakli and Jason Wittenberg, where I served as lead Research Associate. During the explorative stage of the project where we want to analyze various facets of the data to understand what interesting patterns might arise from the survey responses, I developed the R code that translate the survey data into visualizations for interpretation and analysis. Below is a sample of some of the plots I created and directions to the code I developed to create these plots. 
+
+One question that we wanted to investigate was whether Fidesz supporters differed from other Hungarian citizens in terms of their opinions on various facets of old-fashioned authoritarianism versus new-style illiberal democracy. To do so, I grouped respondents by their party affiliation and compared each group's average responses to a battery of old-fashion authoritarian and new-style illiberal questions. You can see four examples of these survey results below and you can find the code I developed on line __________ of the [illiberal_scale_workspace.R file](). 
+
+[]
+
+Another question that we wanted to investigate was 
