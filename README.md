@@ -29,7 +29,7 @@ To further our understanding of the effect of these government-aligned media eco
 
 ![](images/trust_politicians_all_respondents_media.png) 
 
-To analyze whether our treatments, the two different dosages of information, had any effects on the respondents, we aggregated treatment effects across all 7 waves of treatments to see the effect they had on (1) interest in the opposition (2) confidence in the government. For more specified analysis, we drew comparisons across various demographic facets, including (1) high versus low education and (2) high versus low government-media embeddedness. Below are two examples of the results from this analysis; you can find the code I developed to generate these results [here]().
+To analyze whether our treatments, the two different dosages of information, had any effects on the respondents, we aggregated treatment effects across all 7 waves of treatments to see the effect they had on (1) interest in the opposition (2) confidence in the government. For more specified analysis, we drew comparisons across various demographic facets, including (1) high versus low education and (2) high versus low government-media embeddedness. Below are two examples of the results from this analysis; you can find the code I developed to generate these results [here](https://github.com/vi-le-16/Is-Popular-Support-for-Democratic-Backsliding-a-Problem-of-Information/blob/main/all_respondents_various_effects.R).
 
 ![](images/all_respondents_edu_all_RANDS_interest.png)
 
