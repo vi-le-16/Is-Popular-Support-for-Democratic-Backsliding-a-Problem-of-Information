@@ -6,8 +6,11 @@ This article was a collaboration between Professors Laura Jakli and Jason Witten
 One question that we wanted to investigate was whether Fidesz supporters differed from other Hungarian citizens in terms of their opinions on various facets of old-fashioned authoritarianism versus new-style illiberal democracy. To do so, I grouped respondents by their party affiliation and compared each group's average responses to a battery of old-fashion authoritarian and new-style illiberal questions. You can see four examples of these survey results below and you can find the code I developed on line __________ of the [illiberal_scale_workspace.R file](https://github.com/vi-le-16/Is-Popular-Support-for-Democratic-Backsliding-a-Problem-of-Information/blob/main/illiberal_scale_workspace.R). 
 
 ![](images/new_illiberal_dem_1_9_all_party.png)
+
 ![](images/new_illiberal_dem_2_3_all_party.png)
+
 ![](images/new_illiberal_dem_2_4_all_party.png)
+
 ![](images/old_auth_3_all_party.png)
 
 Another question that we wanted to investigate was 
